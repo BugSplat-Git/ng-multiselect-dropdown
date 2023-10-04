@@ -1,10 +1,13 @@
 {
-  "name": "ng-multiselect-dropdown",
-  "version": "0.3.8",
-  "private": true,
+  "name": "@bugsplat/ng-multiselect-dropdown",
+  "version": "1.0.0",
   "description": "Angular Multi-Select Dropdown",
   "author": "Nilesh Patel",
   "license": "MIT",
+  "contributers": [{
+    "name": "Bobby Galli",
+    "email": "bobbyg603@gmail.com"
+  }],
   "scripts": {
     "ng": "ng",
     "start": "ng serve --port 4201",
